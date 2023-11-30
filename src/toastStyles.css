@@ -1,0 +1,10 @@
+/* toastStyles.css */
+.custom-toast {
+    font-family: 'YourCustomFont', sans-serif;
+    font-size: 16px;
+  }
+  
+  .custom-toast-success {
+    background-color: #4caf50; /* Green */
+  }
+  
